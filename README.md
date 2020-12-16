@@ -35,7 +35,7 @@ The following is a representation of a 2-layer unet model. This model was not ve
 
 ### nidek_1
 
-![unet 4layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_cirrus3.png)
+![unet 4layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_nidek.png)
 ![unet 2layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/2%20layer_nidek1.png)
 
 # 3-Layer UNET
@@ -52,5 +52,5 @@ The following is a representation of a 3-layer unet model. This model was better
 
 ### nidek_1
 
-![unet 4layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_cirrus3.png)
+![unet 4layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_nidek.png)
 ![unet 3layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/3%20layer_nidek.png)
