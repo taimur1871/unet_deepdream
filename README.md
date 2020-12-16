@@ -12,3 +12,17 @@ The following three images compare original scan, Deepdream and enhanced DeepDre
 ![Original](https://github.com/taimur1871/unet_deepdream/blob/main/images/original_resized_cirrus3.png)
 ![DeepDream 1](https://github.com/taimur1871/unet_deepdream/blob/main/images/deepdream_1.png)
 ![DeepDream 2](https://github.com/taimur1871/unet_deepdream/blob/main/images/deepdream_2.png)
+
+### nidek_1 Dataset
+
+In nidek_1 dataset the activations analyzed were in a deeper part of the decoder layer. The darker spots and areas with more variation are represented by embossed areas. The smoother white areas are represented by smoother areas in the pictures.
+
+![Original](https://github.com/taimur1871/unet_deepdream/blob/main/images/original_resized_ndk.png)
+![DeepDream 1](https://github.com/taimur1871/unet_deepdream/blob/main/images/deepdream_1_ndk.png)
+![DeepDream 2](https://github.com/taimur1871/unet_deepdream/blob/main/images/deepdream_2_ndk.png)
+
+# 2-Layer UNET
+
+The following is a representation of a 2-layer unet model. This model was not very effective at correctly segmenting the images. Especially the cirrus_3 images. It still segmented some images on nidek_1 dataset. The examples are shown below the model description.
+
+![2-Layer UNET](https://github.com/taimur1871/unet_deepdream/blob/main/model_architecture/unet_2layer.png)
