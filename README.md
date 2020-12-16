@@ -30,27 +30,27 @@ The following is a representation of a 2-layer unet model. This model was not ve
 ## Segmented Images
 ### cirrus_3
 
-![unet 4layer cirrus segmentation]()
-![unet 2layer cirrus segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/unet_2layer_images/bscan_150.jpg_predict_cirrus3.png)
+![unet 4layer cirrus segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_cirrus3.png)
+![unet 2layer cirrus segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/2%20layer_cirrus3.png)
 
 ### nidek_1
 
-![unet 4layer nidek segmentation]()
-![unet 2layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/unet_2layer_images/bscan_150.jpg_predict_cirrus3.png)
+![unet 4layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_cirrus3.png)
+![unet 2layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/2%20layer_nidek1.png)
 
 # 3-Layer UNET
 
-The following is a representation of a 2-layer unet model. This model was not very effective at correctly segmenting the images. Especially the cirrus_3 images. It still segmented some images on nidek_1 dataset. The examples are shown below the model description.
+The following is a representation of a 3-layer unet model. This model was better than 2-layer model at correctly segmenting the images. The examples are shown below the model description.
 
-![3-Layer UNET]()
+![3-Layer UNET](https://github.com/taimur1871/unet_deepdream/blob/main/model_architecture/unet_3layer.png)
 
 ## Segmented Images
 ### cirrus_3
 
-![unet 4layer cirrus segmentation]()
-![unet 3layer cirrus segmentation]()
+![unet 4layer cirrus segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_cirrus3.png)
+![unet 3layer cirrus segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/3%20layer_cirrus3.png)
 
 ### nidek_1
 
-![unet 4layer nidek segmentation]()
-![unet 3layer nidek segmentation]()
+![unet 4layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/4%20layer_cirrus3.png)
+![unet 3layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/segmented_images/3%20layer_nidek.png)
