@@ -26,3 +26,31 @@ In nidek_1 dataset the activations analyzed were in a deeper part of the decoder
 The following is a representation of a 2-layer unet model. This model was not very effective at correctly segmenting the images. Especially the cirrus_3 images. It still segmented some images on nidek_1 dataset. The examples are shown below the model description.
 
 ![2-Layer UNET](https://github.com/taimur1871/unet_deepdream/blob/main/model_architecture/unet_2layer.png)
+
+## Segmented Images
+### cirrus_3
+
+![unet 4layer cirrus segmentation]()
+![unet 2layer cirrus segmentation]()
+
+### nidek_1
+
+![unet 4layer nidek segmentation]()
+![unet 2layer nidek segmentation]()
+
+# 3-Layer UNET
+
+The following is a representation of a 2-layer unet model. This model was not very effective at correctly segmenting the images. Especially the cirrus_3 images. It still segmented some images on nidek_1 dataset. The examples are shown below the model description.
+
+![3-Layer UNET]()
+
+## Segmented Images
+### cirrus_3
+
+![unet 4layer cirrus segmentation]()
+![unet 3layer cirrus segmentation]()
+
+### nidek_1
+
+![unet 4layer nidek segmentation]()
+![unet 3layer nidek segmentation]()
