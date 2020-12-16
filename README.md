@@ -31,12 +31,12 @@ The following is a representation of a 2-layer unet model. This model was not ve
 ### cirrus_3
 
 ![unet 4layer cirrus segmentation]()
-![unet 2layer cirrus segmentation]()
+![unet 2layer cirrus segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/unet_2layer_images/bscan_150.jpg_predict_cirrus3.png)
 
 ### nidek_1
 
 ![unet 4layer nidek segmentation]()
-![unet 2layer nidek segmentation]()
+![unet 2layer nidek segmentation](https://github.com/taimur1871/unet_deepdream/blob/main/unet_2layer_images/bscan_150.jpg_predict_cirrus3.png)
 
 # 3-Layer UNET
 
